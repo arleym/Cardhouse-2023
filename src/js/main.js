@@ -7,3 +7,5 @@ import * as bootstrap from 'bootstrap'
 // import Alert from 'bootstrap/js/dist/alert'
 // 3. or, specify which plugins you need:
 // import { Tooltip, Toast, Popover } from 'bootstrap'
+
+document.querySelector("html").classList.remove("no-js");
